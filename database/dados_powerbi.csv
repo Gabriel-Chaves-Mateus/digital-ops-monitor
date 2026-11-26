@@ -1,0 +1,187 @@
+id_execucao;data_execucao;data_dia;nome_rotina;tipo_solucao;nome_sistema;area_responsavel;criticidade_negocio;status;duracao_segundos;codigo_erro;mensagem_erro
+1;2026-10-26 05:56:00;2026-10-26;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;85;N/A;Execucao normal
+2;2026-10-26 06:04:00;2026-10-26;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;65;N/A;Execucao normal
+3;2026-10-26 05:32:00;2026-10-26;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;64;N/A;Execucao normal
+4;2026-10-26 06:29:00;2026-10-26;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;54;N/A;Execucao normal
+5;2026-10-26 08:39:00;2026-10-26;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;93;N/A;Execucao normal
+6;2026-10-26 06:22:00;2026-10-26;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;31;N/A;Execucao normal
+7;2026-10-27 07:15:00;2026-10-27;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;169;N/A;Execucao normal
+8;2026-10-27 06:01:00;2026-10-27;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;50;N/A;Execucao normal
+9;2026-10-27 08:21:00;2026-10-27;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;159;N/A;Execucao normal
+10;2026-10-27 07:40:00;2026-10-27;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;47;N/A;Execucao normal
+11;2026-10-27 06:32:00;2026-10-27;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;166;N/A;Execucao normal
+12;2026-10-27 08:18:00;2026-10-27;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;38;N/A;Execucao normal
+13;2026-10-28 08:01:00;2026-10-28;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Alerta;587;WARN_PERF;Tempo de execucao acima do limite esperado
+14;2026-10-28 07:21:00;2026-10-28;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Falha;11;ERR_SAP_504;Timeout na extracao RFC do SAP
+15;2026-10-28 05:07:00;2026-10-28;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;177;N/A;Execucao normal
+16;2026-10-28 06:56:00;2026-10-28;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;80;N/A;Execucao normal
+17;2026-10-28 06:36:00;2026-10-28;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;34;N/A;Execucao normal
+18;2026-10-28 07:04:00;2026-10-28;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;38;N/A;Execucao normal
+19;2026-10-29 08:43:00;2026-10-29;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;114;N/A;Execucao normal
+20;2026-10-29 08:58:00;2026-10-29;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;157;N/A;Execucao normal
+21;2026-10-29 08:47:00;2026-10-29;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;173;N/A;Execucao normal
+22;2026-10-29 08:05:00;2026-10-29;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;129;N/A;Execucao normal
+23;2026-10-29 06:00:00;2026-10-29;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;72;N/A;Execucao normal
+24;2026-10-29 06:01:00;2026-10-29;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;118;N/A;Execucao normal
+25;2026-10-30 06:20:00;2026-10-30;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;162;N/A;Execucao normal
+26;2026-10-30 08:18:00;2026-10-30;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;60;N/A;Execucao normal
+27;2026-10-30 06:21:00;2026-10-30;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;55;N/A;Execucao normal
+28;2026-10-30 06:40:00;2026-10-30;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;39;N/A;Execucao normal
+29;2026-10-30 08:46:00;2026-10-30;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;91;N/A;Execucao normal
+30;2026-10-30 05:58:00;2026-10-30;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Alerta;560;WARN_PERF;Tempo de execucao acima do limite esperado
+31;2026-10-31 06:46:00;2026-10-31;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;80;N/A;Execucao normal
+32;2026-10-31 08:10:00;2026-10-31;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;95;N/A;Execucao normal
+33;2026-10-31 05:08:00;2026-10-31;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;132;N/A;Execucao normal
+34;2026-10-31 05:41:00;2026-10-31;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;30;N/A;Execucao normal
+35;2026-10-31 08:25:00;2026-10-31;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;81;N/A;Execucao normal
+36;2026-10-31 07:13:00;2026-10-31;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;65;N/A;Execucao normal
+37;2026-11-01 06:00:00;2026-11-01;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Falha;49;ERR_SQL_LOCK;Deadlock na tabela de destino DW
+38;2026-11-01 07:05:00;2026-11-01;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Alerta;522;WARN_PERF;Tempo de execucao acima do limite esperado
+39;2026-11-01 06:42:00;2026-11-01;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;45;N/A;Execucao normal
+40;2026-11-01 05:24:00;2026-11-01;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;146;N/A;Execucao normal
+41;2026-11-01 05:19:00;2026-11-01;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;84;N/A;Execucao normal
+42;2026-11-01 05:17:00;2026-11-01;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;108;N/A;Execucao normal
+43;2026-11-02 06:07:00;2026-11-02;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Falha;31;ERR_SQL_LOCK;Deadlock na tabela de destino DW
+44;2026-11-02 05:07:00;2026-11-02;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;170;N/A;Execucao normal
+45;2026-11-02 07:10:00;2026-11-02;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;132;N/A;Execucao normal
+46;2026-11-02 08:34:00;2026-11-02;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Falha;16;ERR_AUTH_401;Token de autenticacao SharePoint expirado
+47;2026-11-02 07:56:00;2026-11-02;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;153;N/A;Execucao normal
+48;2026-11-02 05:46:00;2026-11-02;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;145;N/A;Execucao normal
+49;2026-11-03 07:05:00;2026-11-03;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;175;N/A;Execucao normal
+50;2026-11-03 06:03:00;2026-11-03;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;83;N/A;Execucao normal
+51;2026-11-03 05:01:00;2026-11-03;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Falha;32;ERR_SAP_504;Timeout na extracao RFC do SAP
+52;2026-11-03 08:48:00;2026-11-03;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Falha;40;ERR_DATA_NULL;Coluna obrigatoria veio nula na origem
+53;2026-11-03 08:14:00;2026-11-03;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;54;N/A;Execucao normal
+54;2026-11-03 05:59:00;2026-11-03;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;167;N/A;Execucao normal
+55;2026-11-04 07:37:00;2026-11-04;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Falha;44;ERR_AUTH_401;Token de autenticacao SharePoint expirado
+56;2026-11-04 07:39:00;2026-11-04;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;166;N/A;Execucao normal
+57;2026-11-04 06:42:00;2026-11-04;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;60;N/A;Execucao normal
+58;2026-11-04 07:38:00;2026-11-04;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;40;N/A;Execucao normal
+59;2026-11-04 06:08:00;2026-11-04;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;91;N/A;Execucao normal
+60;2026-11-04 08:25:00;2026-11-04;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;51;N/A;Execucao normal
+61;2026-11-05 08:52:00;2026-11-05;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Alerta;485;WARN_PERF;Tempo de execucao acima do limite esperado
+62;2026-11-05 07:41:00;2026-11-05;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;117;N/A;Execucao normal
+63;2026-11-05 08:50:00;2026-11-05;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Alerta;556;WARN_PERF;Tempo de execucao acima do limite esperado
+64;2026-11-05 07:22:00;2026-11-05;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;84;N/A;Execucao normal
+65;2026-11-05 06:34:00;2026-11-05;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;135;N/A;Execucao normal
+66;2026-11-05 05:58:00;2026-11-05;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;155;N/A;Execucao normal
+67;2026-11-06 07:05:00;2026-11-06;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Alerta;462;WARN_PERF;Tempo de execucao acima do limite esperado
+68;2026-11-06 07:29:00;2026-11-06;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;180;N/A;Execucao normal
+69;2026-11-06 05:03:00;2026-11-06;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;162;N/A;Execucao normal
+70;2026-11-06 06:46:00;2026-11-06;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;70;N/A;Execucao normal
+71;2026-11-06 06:14:00;2026-11-06;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;154;N/A;Execucao normal
+72;2026-11-06 07:06:00;2026-11-06;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;56;N/A;Execucao normal
+73;2026-11-07 06:11:00;2026-11-07;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;172;N/A;Execucao normal
+74;2026-11-07 05:28:00;2026-11-07;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;158;N/A;Execucao normal
+75;2026-11-07 08:30:00;2026-11-07;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;166;N/A;Execucao normal
+76;2026-11-07 07:24:00;2026-11-07;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;31;N/A;Execucao normal
+77;2026-11-07 06:35:00;2026-11-07;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Alerta;592;WARN_PERF;Tempo de execucao acima do limite esperado
+78;2026-11-07 06:57:00;2026-11-07;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Falha;46;ERR_SQL_LOCK;Deadlock na tabela de destino DW
+79;2026-11-08 05:21:00;2026-11-08;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;79;N/A;Execucao normal
+80;2026-11-08 08:41:00;2026-11-08;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;74;N/A;Execucao normal
+81;2026-11-08 08:26:00;2026-11-08;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;54;N/A;Execucao normal
+82;2026-11-08 08:52:00;2026-11-08;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;73;N/A;Execucao normal
+83;2026-11-08 07:35:00;2026-11-08;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Falha;20;ERR_DATA_NULL;Coluna obrigatoria veio nula na origem
+84;2026-11-08 06:51:00;2026-11-08;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;122;N/A;Execucao normal
+85;2026-11-09 08:25:00;2026-11-09;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;175;N/A;Execucao normal
+86;2026-11-09 06:07:00;2026-11-09;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;130;N/A;Execucao normal
+87;2026-11-09 06:55:00;2026-11-09;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;142;N/A;Execucao normal
+88;2026-11-09 08:14:00;2026-11-09;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;85;N/A;Execucao normal
+89;2026-11-09 06:08:00;2026-11-09;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;39;N/A;Execucao normal
+90;2026-11-09 06:45:00;2026-11-09;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Falha;36;ERR_SQL_LOCK;Deadlock na tabela de destino DW
+91;2026-11-10 08:04:00;2026-11-10;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;178;N/A;Execucao normal
+92;2026-11-10 07:38:00;2026-11-10;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;94;N/A;Execucao normal
+93;2026-11-10 08:14:00;2026-11-10;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;100;N/A;Execucao normal
+94;2026-11-10 07:51:00;2026-11-10;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;118;N/A;Execucao normal
+95;2026-11-10 08:37:00;2026-11-10;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;82;N/A;Execucao normal
+96;2026-11-10 06:47:00;2026-11-10;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;128;N/A;Execucao normal
+97;2026-11-11 05:44:00;2026-11-11;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;61;N/A;Execucao normal
+98;2026-11-11 05:26:00;2026-11-11;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;179;N/A;Execucao normal
+99;2026-11-11 05:57:00;2026-11-11;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Falha;45;ERR_SQL_LOCK;Deadlock na tabela de destino DW
+100;2026-11-11 08:00:00;2026-11-11;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;160;N/A;Execucao normal
+101;2026-11-11 06:15:00;2026-11-11;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;81;N/A;Execucao normal
+102;2026-11-11 07:05:00;2026-11-11;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;154;N/A;Execucao normal
+103;2026-11-12 05:46:00;2026-11-12;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;60;N/A;Execucao normal
+104;2026-11-12 08:24:00;2026-11-12;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;121;N/A;Execucao normal
+105;2026-11-12 05:20:00;2026-11-12;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;126;N/A;Execucao normal
+106;2026-11-12 08:28:00;2026-11-12;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;72;N/A;Execucao normal
+107;2026-11-12 05:17:00;2026-11-12;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;55;N/A;Execucao normal
+108;2026-11-12 06:35:00;2026-11-12;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;125;N/A;Execucao normal
+109;2026-11-13 05:55:00;2026-11-13;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;179;N/A;Execucao normal
+110;2026-11-13 07:41:00;2026-11-13;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;119;N/A;Execucao normal
+111;2026-11-13 07:52:00;2026-11-13;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;149;N/A;Execucao normal
+112;2026-11-13 08:15:00;2026-11-13;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;108;N/A;Execucao normal
+113;2026-11-13 08:17:00;2026-11-13;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;168;N/A;Execucao normal
+114;2026-11-13 05:07:00;2026-11-13;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;69;N/A;Execucao normal
+115;2026-11-14 07:05:00;2026-11-14;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Falha;22;ERR_SAP_504;Timeout na extracao RFC do SAP
+116;2026-11-14 05:14:00;2026-11-14;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;114;N/A;Execucao normal
+117;2026-11-14 05:51:00;2026-11-14;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;145;N/A;Execucao normal
+118;2026-11-14 08:08:00;2026-11-14;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;156;N/A;Execucao normal
+119;2026-11-14 07:11:00;2026-11-14;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;157;N/A;Execucao normal
+120;2026-11-14 05:55:00;2026-11-14;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;177;N/A;Execucao normal
+121;2026-11-15 07:15:00;2026-11-15;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Alerta;515;WARN_PERF;Tempo de execucao acima do limite esperado
+122;2026-11-15 06:57:00;2026-11-15;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;30;N/A;Execucao normal
+123;2026-11-15 05:20:00;2026-11-15;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;116;N/A;Execucao normal
+124;2026-11-15 07:32:00;2026-11-15;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;32;N/A;Execucao normal
+125;2026-11-15 08:48:00;2026-11-15;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;114;N/A;Execucao normal
+126;2026-11-15 07:39:00;2026-11-15;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;125;N/A;Execucao normal
+127;2026-11-16 05:53:00;2026-11-16;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Falha;33;ERR_SQL_LOCK;Deadlock na tabela de destino DW
+128;2026-11-16 07:09:00;2026-11-16;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;149;N/A;Execucao normal
+129;2026-11-16 06:23:00;2026-11-16;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;44;N/A;Execucao normal
+130;2026-11-16 05:52:00;2026-11-16;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;62;N/A;Execucao normal
+131;2026-11-16 06:07:00;2026-11-16;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;120;N/A;Execucao normal
+132;2026-11-16 07:12:00;2026-11-16;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;144;N/A;Execucao normal
+133;2026-11-17 08:38:00;2026-11-17;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;78;N/A;Execucao normal
+134;2026-11-17 07:25:00;2026-11-17;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;53;N/A;Execucao normal
+135;2026-11-17 08:25:00;2026-11-17;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;35;N/A;Execucao normal
+136;2026-11-17 05:07:00;2026-11-17;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;139;N/A;Execucao normal
+137;2026-11-17 08:01:00;2026-11-17;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;94;N/A;Execucao normal
+138;2026-11-17 07:41:00;2026-11-17;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Falha;40;ERR_SQL_LOCK;Deadlock na tabela de destino DW
+139;2026-11-18 08:35:00;2026-11-18;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;116;N/A;Execucao normal
+140;2026-11-18 06:17:00;2026-11-18;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;157;N/A;Execucao normal
+141;2026-11-18 06:33:00;2026-11-18;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;114;N/A;Execucao normal
+142;2026-11-18 06:35:00;2026-11-18;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;45;N/A;Execucao normal
+143;2026-11-18 07:11:00;2026-11-18;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;47;N/A;Execucao normal
+144;2026-11-18 08:13:00;2026-11-18;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;178;N/A;Execucao normal
+145;2026-11-19 08:00:00;2026-11-19;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;172;N/A;Execucao normal
+146;2026-11-19 05:55:00;2026-11-19;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;177;N/A;Execucao normal
+147;2026-11-19 07:20:00;2026-11-19;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;73;N/A;Execucao normal
+148;2026-11-19 07:18:00;2026-11-19;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;162;N/A;Execucao normal
+149;2026-11-19 08:49:00;2026-11-19;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;50;N/A;Execucao normal
+150;2026-11-19 06:47:00;2026-11-19;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;134;N/A;Execucao normal
+151;2026-11-20 05:38:00;2026-11-20;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;154;N/A;Execucao normal
+152;2026-11-20 07:53:00;2026-11-20;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;66;N/A;Execucao normal
+153;2026-11-20 06:38:00;2026-11-20;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;124;N/A;Execucao normal
+154;2026-11-20 07:44:00;2026-11-20;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;139;N/A;Execucao normal
+155;2026-11-20 05:24:00;2026-11-20;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Alerta;463;WARN_PERF;Tempo de execucao acima do limite esperado
+156;2026-11-20 06:13:00;2026-11-20;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;62;N/A;Execucao normal
+157;2026-11-21 05:42:00;2026-11-21;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;80;N/A;Execucao normal
+158;2026-11-21 08:15:00;2026-11-21;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;129;N/A;Execucao normal
+159;2026-11-21 08:57:00;2026-11-21;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;174;N/A;Execucao normal
+160;2026-11-21 07:56:00;2026-11-21;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;135;N/A;Execucao normal
+161;2026-11-21 05:00:00;2026-11-21;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;59;N/A;Execucao normal
+162;2026-11-21 07:36:00;2026-11-21;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;115;N/A;Execucao normal
+163;2026-11-22 08:15:00;2026-11-22;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;51;N/A;Execucao normal
+164;2026-11-22 06:19:00;2026-11-22;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;30;N/A;Execucao normal
+165;2026-11-22 07:11:00;2026-11-22;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;34;N/A;Execucao normal
+166;2026-11-22 08:37:00;2026-11-22;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;139;N/A;Execucao normal
+167;2026-11-22 06:00:00;2026-11-22;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;33;N/A;Execucao normal
+168;2026-11-22 07:32:00;2026-11-22;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;89;N/A;Execucao normal
+169;2026-11-23 07:10:00;2026-11-23;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Alerta;521;WARN_PERF;Tempo de execucao acima do limite esperado
+170;2026-11-23 08:15:00;2026-11-23;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;117;N/A;Execucao normal
+171;2026-11-23 07:11:00;2026-11-23;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;145;N/A;Execucao normal
+172;2026-11-23 05:55:00;2026-11-23;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;147;N/A;Execucao normal
+173;2026-11-23 06:20:00;2026-11-23;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;49;N/A;Execucao normal
+174;2026-11-23 07:19:00;2026-11-23;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Falha;50;ERR_SQL_LOCK;Deadlock na tabela de destino DW
+175;2026-11-24 05:25:00;2026-11-24;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;121;N/A;Execucao normal
+176;2026-11-24 08:42:00;2026-11-24;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Falha;16;ERR_AUTH_401;Token de autenticacao SharePoint expirado
+177;2026-11-24 06:12:00;2026-11-24;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;60;N/A;Execucao normal
+178;2026-11-24 07:36:00;2026-11-24;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;175;N/A;Execucao normal
+179;2026-11-24 05:59:00;2026-11-24;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;149;N/A;Execucao normal
+180;2026-11-24 05:01:00;2026-11-24;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;112;N/A;Execucao normal
+181;2026-11-25 05:33:00;2026-11-25;Carga_Producao_Fabrica_01;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;137;N/A;Execucao normal
+182;2026-11-25 05:12:00;2026-11-25;Atualizacao_Painel_OEE;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;117;N/A;Execucao normal
+183;2026-11-25 05:03:00;2026-11-25;Sync_Solicitacoes_Acesso;Automacao RPA;SharePoint Online;Colaboração M365;Media;Sucesso;110;N/A;Execucao normal
+184;2026-11-25 08:46:00;2026-11-25;Extracao_Estoque_Materiais;ETL;SAP S/4HANA;ERP / Produção;Alta;Sucesso;85;N/A;Execucao normal
+185;2026-11-25 07:29:00;2026-11-25;Relatorio_SLA_Chamados;Dashboard BI;Data Warehouse Corporativo;Dados & Analytics;Alta;Sucesso;121;N/A;Execucao normal
+186;2026-11-25 07:06:00;2026-11-25;Fluxo_Aprovacao_Compras;Automacao RPA;Portal Power Automate;Automação de Processos;Media;Sucesso;66;N/A;Execucao normal
